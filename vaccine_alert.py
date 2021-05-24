@@ -66,8 +66,8 @@ for time1 in range(15000):
                                   # Choose an API vendor for call https://my.exotel.com/apisettings/site#api-credentials  
                                   #APi reference for making a call https://developer.exotel.com/api/  
                                   data = {
-                                      'From': '07708860967',
-                                      'To': '07708860967',
+                                      'From': '0770xx86xx',
+                                      'To': '0770xx86xx',
                                       'CallerId': '04440115132'
                                   }
                                   response = requests.post(
